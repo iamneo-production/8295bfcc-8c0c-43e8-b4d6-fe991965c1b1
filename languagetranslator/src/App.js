@@ -11,7 +11,7 @@ import Languages from "./components/Languages";
 
 import "./App.css";
 
-import "semantic-ui-css/semantic.min.css";
+
 
 
 
